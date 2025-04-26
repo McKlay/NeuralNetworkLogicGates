@@ -17,6 +17,8 @@ A C# WinForms application that trains a basic neural network using **backpropaga
 ---
 
 ## 📂 Project Structure
+
+```
 NeuralNetworkLogicGates/ 
     ├── NeuralNetworkLogicGates.sln 
     ├── .gitignore 
@@ -28,6 +30,7 @@ NeuralNetworkLogicGates/
         ├── NeuralNetwork.cs # Neural network: forward + backprop 
         ├── Program.cs # App entry point 
         └── NeuralNetworkLogicGates.csproj
+```
 
 ---
 
